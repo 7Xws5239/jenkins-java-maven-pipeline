@@ -2,6 +2,8 @@ package com.mycompany.app;
 
 import org.junit.jupiter.api.Test;
 
+import com.example.App;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
